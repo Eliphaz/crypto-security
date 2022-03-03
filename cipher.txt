@@ -1,0 +1,4 @@
+Vigenere Cipher
+is similar to a cesar cipher but instead of every number shifted the same amount it will be shifted based on a key, if the key is ABC it will be shifted 1,2,3,1,2,3... for every letter in the code.
+
+hello with a key of abc would be igomq
